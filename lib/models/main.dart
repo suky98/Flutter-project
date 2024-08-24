@@ -61,7 +61,7 @@ class _BoardPageState extends State<BoardPage> {
         backgroundColor: Colors.white,
         elevation: 0,
         leading: IconButton(
-          icon: const Icon(Icons.notifications, color: Colors.black),
+          icon: const Icon(Icons.notifications, color: Colors.grey),
           onPressed: () {
             // 알림 버튼 클릭 시 처리
           },
